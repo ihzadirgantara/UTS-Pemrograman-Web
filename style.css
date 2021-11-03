@@ -1,0 +1,132 @@
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+}
+
+li{
+    
+    float: right;
+    font-size: 20px;
+       
+}
+
+li a{
+    color:black;
+    text-decoration: none;
+    padding: 16px;
+}
+
+li a:hover{
+    background-color:gray;
+}
+
+.logo{
+    width: 100px;
+    padding: 5px;
+    margin: 30px;
+    border-radius:50%;
+    border: solid greenyellow;
+    background-color: blueviolet;
+}
+
+.photo{
+    margin: 0;
+    padding: 10px;
+    width: 99%; 
+      
+   
+}
+
+.kit{
+    width: 40px;
+}
+
+.medical{
+    width: 40px;
+}
+
+.consul{
+    width: 40px;
+}
+
+.ya{
+    float: left;
+    padding: 30px;
+}
+
+.tidak{
+    padding: 30px;
+}
+
+.rs{
+    width: 70%;
+    height: 500px;
+}
+
+.tb{
+    float: right;
+}
+
+.home{
+    width: 15%;
+    height: 200px;
+}
+
+.ty{
+   width: 10%;
+   border: solid yellowgreen;
+}
+
+.box1{
+    width:120px;
+    height:130px;
+    border: solid;
+    margin: 20px;
+    text-align: center;
+    background-color: wheat;
+    }
+.box2{
+    width:120px;
+    height:130px;
+    border: solid;
+    margin: 20px;
+    text-align: center;
+    background-color: wheat;
+
+    }
+
+.box3{
+    width:120px;
+    height:130px;
+    border: solid;
+    margin: 20px;
+    text-align: center;
+    background-color: wheat;
+
+    }
+
+.box4{
+    width:120px;
+    height:130px;
+    border: solid;
+    margin: 20px;   
+    text-align: center;
+    background-color: wheat;
+
+    }
+
+.about{
+  display: flex; 
+}
+
+.fb{
+    width: 20px;
+}
+
+.web{
+    width: 20px;
+}
+
+    
